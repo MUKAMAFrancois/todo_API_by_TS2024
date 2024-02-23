@@ -9,8 +9,8 @@ const swaggerOptions = {
       version: '1.0.0',
       description: 'API for testing purposes',
       license: {
-        name: 'MUK',
-        url: 'https://yourwebsite.com/license',
+        name: 'MUKAMA',
+        url: 'https://mukama_fr.com',
       },
       contact: {
         name: 'Test it',
